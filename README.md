@@ -45,7 +45,7 @@ DevOps Philosophy -->
 
 ## 🎙 Podcasts & Media:
 
-- [Modern web](https://www.thisdotmedia.com/modern-web)
+- [The Modern Web Podcast](https://www.thisdotmedia.com/modern-web)
 - [Our Youtube channel](https://www.youtube.com/c/ThisDotMedia)
 
 ---
