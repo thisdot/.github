@@ -6,11 +6,11 @@ Our team is committed to helping companies develop cutting-edge modern web appli
 
 ---
 
-# 🧑‍💻 What we do
+# 👩‍💻 What we do
 
 We specialize in modern web technologies. Through staff augmentation, application development, consulting, and training, our team of world class developers and architects help you bring your ideas to life. We also host an array of podcasts and events and build open source projects for the community at large.
 
-Technologies we work with:
+## 🔥 Some of the technologies we work with:
 
 <div style="display:flex; align-items: center; gap: 15px; flex-wrap: wrap;">
 <a href="https://angular.io/">
@@ -24,7 +24,14 @@ Technologies we work with:
 <img width="40" src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" /></a>
 <a href="https://graphql.org/">
 <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" /></a>
-
+<a href="https://nodejs.org/en/">
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" /></a>
+<a href="https://nextjs.org/">
+<img width="60" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" /></a>
+<a href="https://nuxtjs.org/">
+<img width="50" src="https://upload.wikimedia.org/wikipedia/commons/4/45/NuxtJS_Logo.png" /></a>
+<a href="http://lit.dev/">
+<img width="60" src="https://lit.dev/images/logo.svg" /></a>
 </div>
 <!-- Mobile
 Testing
