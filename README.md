@@ -87,7 +87,7 @@ We treat our clients and team members with the highest level of respect. We expe
 
 ---
 
-## 🤙 Get in touch
+## ✉️ Get in touch
 
 - [Contact us](https://www.thisdot.co/contact)
 - [Jobs](https://www.thisdot.co/jobs)
