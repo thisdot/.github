@@ -1,6 +1,6 @@
 # 👋 Who we are
 
-This Dot Labs is a worldwide JavaScript consultancy that focuses on a 100% remote first work environment. Today, the team at This Dot Labs represents over two dozen nationalities, multiple spoken languages, and even more areas of technical expertise!
+[This Dot Labs](https://www.thisdot.co/) is a worldwide JavaScript consultancy that focuses on a 100% remote first work environment. Today, the team at This Dot Labs represents over two dozen nationalities, multiple spoken languages, and even more areas of technical expertise!
 
 Our team is committed to helping companies develop cutting-edge modern web applications and supporting the web community at large. Founded by leaders in the JavaScript community, including members of RxJS Core Team, Angular Core Team, and more, This Dot Labs is known to be a leading company to work for and work with. We are a proud Women and Minority Owned Small Business.
 
@@ -41,7 +41,7 @@ DevOps Philosophy -->
 ## 🎙 Podcasts & Media:
 
 - [The Modern Web Podcast](https://www.thisdotmedia.com/modern-web)
-- [Our Youtube channel](https://www.youtube.com/c/ThisDotMedia)
+- [This Dot Media YouTube channel](https://www.youtube.com/c/ThisDotMedia)
 
 ---
 
@@ -53,6 +53,7 @@ DevOps Philosophy -->
 - [Angular Meetups](https://www.angularmeetup.com/)
 - [GraphQL Meetups](https://www.graphql-meetup.com/)
 - [JavaScript Marathon](https://www.thisdot.co/javascript-marathon/)
+- [Women in Tech Meetups](https://women-in-tech.thisdotmedia.com/)
 
 ---
 
@@ -61,6 +62,7 @@ DevOps Philosophy -->
 - [Our blog](https://www.thisdot.co/blog)
 - [Open Source Packages](https://github.com/thisdot/open-source)
 - [PerfBuddy](https://perfbuddy.com/)
+- [framework.dev](https://framework.dev/)
 
 ---
 
