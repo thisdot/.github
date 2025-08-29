@@ -1,14 +1,14 @@
 # 👋 Who we are
 
-[This Dot Labs](https://www.thisdot.co/) is a worldwide JavaScript consultancy that focuses on a 100% remote first work environment. Today, the team at This Dot Labs represents over two dozen nationalities, multiple spoken languages, and even more areas of technical expertise!
+[This Dot Labs](https://www.thisdot.co/) is a global software consultancy that focuses on helping companies build ambitious software. We are heavily invested in helping the teams we work with upskill in AI, as well as use AI across the SDLC to improve our delivery. 
 
-Our team is committed to helping companies develop cutting-edge modern web applications and supporting the web community at large. Founded by leaders in the JavaScript community, including members of RxJS Core Team, Angular Core Team, and more, This Dot Labs is known to be a leading company to work for and work with. We are a proud Women and Minority Owned Small Business.
+Founded by open source leaders in the web ecosystem, including members of RxJS Core Team, Angular Core Team, and more, This Dot Labs is recognized as a leading company to work for and work with. We are a proud Women and Minority Owned Small Business.
 
 ---
 
 # 👩‍💻 What we do
 
-We specialize in modern web technologies. Through staff augmentation, application development, consulting, and training, our team of world class developers and architects help you bring your ideas to life. We also host an array of podcasts and events and build open source projects for the community at large.
+We specialize in modern web technologies and AI. Through staff augmentation, application development, consulting, and training, our team of world class developers and architects help you bring your ideas to life. We also host an array of podcasts and events and build open source projects for the community at large.
 
 ## 🔥 Some of the technologies we work with:
 
