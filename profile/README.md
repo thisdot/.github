@@ -45,18 +45,6 @@ DevOps Philosophy -->
 
 ---
 
-## 🗓 Events:
-
-- [Modern Web Events](https://www.thisdotmedia.com/state-of-the-web/#/)
-- [React Meetups](https://www.reactjsmeetup.com/)
-- [Vue Meetups](https://www.vuemeetup.com/)
-- [Angular Meetups](https://www.angularmeetup.com/)
-- [GraphQL Meetups](https://www.graphql-meetup.com/)
-- [JavaScript Marathon](https://www.thisdot.co/javascript-marathon/)
-- [Women in Tech Meetups](https://women-in-tech.thisdotmedia.com/)
-
----
-
 ## 🛠 Tools & Resources:
 
 - [Our blog](https://www.thisdot.co/blog)
