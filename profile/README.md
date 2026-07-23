@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner rendered from profile/assets/banner.svg (1200x300). Re-render with: npx sharp-cli -i profile/assets/banner.svg -o profile/assets/banner.png resize 1200 300 -->
-<img src="./profile/assets/banner.png" alt="This Dot Labs — Building Software for an AI-Native World" width="100%" />
+<img src="./assets/banner.png" alt="This Dot Labs — Building Software for an AI-Native World" width="100%" />
 
 # Building Software for an AI-Native World
 
