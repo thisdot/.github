@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-label="This Dot Labs — Proven Partners That Deliver. The AI Gap Isn't Infra. It's Enablement.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-label="This Dot Labs — Building Software for an AI-Native World. The next evolution of software delivery is here.">
   <defs>
     <!-- Base dark background matching ai.thisdot.co (#000 / #0A0A0A) -->
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -47,11 +47,11 @@
   <rect x="80" y="118" width="360" height="2" rx="1" fill="url(#accentLine)"/>
 
   <!-- Primary tagline -->
-  <text x="80" y="168" font-family="Inter, 'DM Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#FFFFFF" letter-spacing="-0.5">Proven Partners That Deliver</text>
+  <text x="80" y="168" font-family="Inter, 'DM Sans', Helvetica, Arial, sans-serif" font-size="30" font-weight="600" fill="#FFFFFF" letter-spacing="-0.5">Building Software for an AI-Native World</text>
 
   <!-- AI hook -->
-  <text x="80" y="212" font-family="Inter, 'DM Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#0055FF">The AI Gap Isn&#39;t Infra. It&#39;s Enablement.</text>
+  <text x="80" y="212" font-family="Inter, 'DM Sans', Helvetica, Arial, sans-serif" font-size="21" font-weight="500" fill="#0055FF">The next evolution of software delivery is here.</text>
 
   <!-- Supporting line -->
-  <text x="80" y="248" font-family="Inter, 'DM Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#999999">Building ambitious software &#8226; Adopting AI across the SDLC</text>
+  <text x="80" y="248" font-family="Inter, 'DM Sans', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#999999">Solving hard problems &#8226; Modernizing critical systems &#8226; Adopting AI intentionally</text>
 </svg>

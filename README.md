@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Banner rendered from profile/assets/banner.svg (1200x300). Re-render with: npx sharp-cli -i profile/assets/banner.svg -o profile/assets/banner.png resize 1200 300 -->
-<img src="./profile/assets/banner.png" alt="This Dot Labs — Proven Partners That Deliver" width="100%" />
+<img src="./profile/assets/banner.png" alt="This Dot Labs — Building Software for an AI-Native World" width="100%" />
 
-# Proven Partners That Deliver
+# Building Software for an AI-Native World
 
-### The AI Gap Isn't Infra. It's Enablement.
+### The next evolution of software delivery is here.
 
-We help companies build ambitious software — and adopt AI across the SDLC.
+We help companies solve hard software problems, modernize critical systems, and adopt AI with intention.
 
 <p>
 <a href="https://www.thisdot.co/"><img src="https://img.shields.io/badge/Website-thisdot.co-1a73e8?style=for-the-badge" alt="Website" /></a>
@@ -29,29 +29,29 @@ We help companies build ambitious software — and adopt AI across the SDLC.
 
 # 👋 Who we are
 
-[This Dot Labs](https://www.thisdot.co/) is a global software consultancy that helps companies build ambitious software. We're heavily invested in helping the teams we work with upskill in AI, and in using AI across the software development lifecycle to improve how we deliver.
+[This Dot Labs](https://www.thisdot.co/) is the engineering partner companies bring in when important software needs to move — fast, but also correctly. Our senior engineers solve hard problems, modernize critical systems, improve how teams work, and leave those teams more capable than when we arrived.
 
 Founded by open source leaders in the web ecosystem — including members of the RxJS Core Team, Angular Core Team, and more — This Dot Labs is recognized as a leading company to work for and work with. We're a fully remote team representing over two dozen nationalities, and a proud **Women- and Minority-Owned Small Business**.
 
 ---
 
-# 🤖 AI Enablement
+# 🤖 AI-Native Engineering
 
-**The AI Gap Isn't Infra. It's Enablement.** Most organizations already have the AI tools — what they lack is the systems, skills, and processes to actually deploy them. That's where we come in: we train engineers to work in agent mode, make codebases testable, well-documented, and agent-ready, and help teams eliminate shadow AI.
+**AI is not another tool to bolt onto the engineering stack.** It changes how work is planned, software is designed, teams collaborate, and systems are governed. The durable advantage is not choosing today's best model; it is building an organization that knows how to use AI well.
 
 Explore our AI services at **[ai.thisdot.co](https://ai.thisdot.co/)**:
 
-- **AI Readiness Assessment** — where you stand today, and the gaps to close.
-- **AI Roadmap** — prioritized use cases and a phased plan to adopt AI with confidence.
-- **AI Acceleration** — embedded teams that implement agentic workflows and upskill your engineers.
+- **Readiness & strategy** — connect AI opportunities to measurable business outcomes.
+- **AI-enabled delivery** — create agent-ready workflows with strong context, verification, and human review.
+- **Enterprise agent governance** — make AI capabilities, access, actions, costs, and risks visible and manageable.
 
 ---
 
 # 👩‍💻 What we do
 
-Through **Consulting**, **Development**, **Assessments**, and **Training**, our world-class developers and architects help you bring your ideas to life — from concept to launch. We work as an extension of your team via staff augmentation, application development, and hands-on workshops, and we build open source projects for the community at large.
+We work between strategy and implementation across **AI enablement**, **software delivery**, **architecture modernization**, **product development**, and **engineering transformation**. Through embedded engineering, assessments, workshops, and training, we help teams deliver better software and build stronger ways of working.
 
-**Our foundation:** React, Angular, Vue, Next.js, Node.js, TypeScript, GraphQL, and RxJS — now paired with AI/LLM and agentic tooling across the stack.
+**Our foundation:** deep software engineering expertise, from React, Angular, Vue, Next.js, Node.js, TypeScript, GraphQL, and RxJS to AI-native development and agentic systems.
 
 ---
 
